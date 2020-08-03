@@ -1,2 +1,0 @@
-exports.ids=[14],exports.modules={64:function(t,e,r){"use strict";r.r(e);var l={props:{step:{required:!0}}},n=r(1),component=Object(n.a)(l,function(){var t=this.$createElement;return(this._self._c||t)("nuxt-link",{staticClass:"block mb-2 p-3 bg-blue-500 rounded-lg mr-2 lg:mr-0",class:{"opacity-25 pointer-events-none":!this.step},attrs:{to:this.step?{query:{step:this.step.uuid}}:{}}},[this._t("default")],2)},[],!1,null,null,"2b3f5d64");e.default=component.exports}};
-//# sourceMappingURL=a3b4f75c3746f7ecc41f.js.map
